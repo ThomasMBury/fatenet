@@ -1,6 +1,6 @@
 # FateNet
 
-This is the repository to accompnay the article:
+This is the repository to accompany the article:
 
 ***FateNet: an integration of dynamical systems and deep learning for cell fate prediction***. *Mehrshad Sadria and Thomas M. Bury* 
 https://www.biorxiv.org/content/10.1101/2024.01.16.575913v1
